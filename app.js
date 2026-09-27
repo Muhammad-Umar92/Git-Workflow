@@ -1,0 +1,1 @@
+console.log("I am a software quality assurance engineer with 2 years of experience in testing web applications and ensuring their functionality, performance, and security.");
